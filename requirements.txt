@@ -6,5 +6,5 @@ seaborn
 scikit-learn
 rdkit
 lightgbm
-lazypredict
+lazypredict==0.2.9
 tqdm
