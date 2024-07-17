@@ -6,3 +6,4 @@ rdkit
 lightgbm
 matplotlib
 seaborn
+lazypredict
