@@ -5,3 +5,4 @@ scikit-learn
 rdkit
 lightgbm
 matplotlib
+seaborn
