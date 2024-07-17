@@ -1,9 +1,10 @@
 streamlit
 pandas
 numpy
+matplotlib
+seaborn
 scikit-learn
 rdkit
 lightgbm
-matplotlib
-seaborn
 lazypredict
+tqdm
